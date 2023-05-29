@@ -1,1 +1,9 @@
 mkdir aaa
+cd aaa
+touch aaa.pdf
+touch bbb.pdf
+mkdir cc
+cd cc
+touch nest.pdf
+cd ..
+cd ..
